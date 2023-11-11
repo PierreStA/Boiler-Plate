@@ -7,7 +7,7 @@ export default function Home() {
  <Card>
   <CardHeader>
     <CardTitle>
-      Hola
+      Web development is a bit like cooking. Boilerplate is the salt , you need just the right amount, but too much ruins the dish.
     </CardTitle>
   </CardHeader>
  </Card>

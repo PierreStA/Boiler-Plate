@@ -1,4 +1,4 @@
 export const SiteConfig = {
-  title: 'JustCode',
-  description: 'You JUST need to CODE.',
+  title: 'Boilerplate',
+  description: 'Save Time to Create a New Project',
 } as const;
